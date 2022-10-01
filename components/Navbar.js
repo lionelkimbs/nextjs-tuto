@@ -13,6 +13,9 @@ const Navbar = () => {
                 <li>
                     <Link href='/a-propos'>À propos</Link>
                 </li>
+                <li>
+                    <Link href='/api-doc'>API</Link>
+                </li>
             </ul>
         </nav>
     );
